@@ -1,6 +1,8 @@
 <h1>Important links <br></h1>
 https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e <br>
 https://the-bilal-rizwan.medium.com/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696 <br>
+https://medium.com/the-graphqlhub/graphql-and-authentication-b73aed34bbeb <br>
+
 
 
 <h1>Tools</h1><br>
